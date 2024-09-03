@@ -1,0 +1,8 @@
+.tiptap comment {
+  background-color: #f3f3f3;
+  cursor: pointer;
+}
+
+.tiptap comment:hover {
+  background-color: #f0f0f0;
+}
